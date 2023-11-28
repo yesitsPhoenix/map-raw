@@ -12,11 +12,11 @@ async function fetchData(fileName) {
 }
 
 async function fetchResourceLocations() {
-  return fetchData("static/data/resources.json");
+  return fetchData("mapping/static/data/resources.json");
 }
 
 async function fetchPlayerLocations() {
-  const playerLocations = await fetchData("static/data/players.json");
+  const playerLocations = await fetchData("mapping/static/data/players.json");
   playerLocations.push({
       name: "Check All",
       lat: null,
@@ -146,7 +146,7 @@ const greywolfIcon = L.icon({
 });
 
 const loiostearsIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134833600072781824/deer.png',
+  iconUrl: 'https://cdn.discordapp.com/attachments/1110652388328603738/1179157823469395979/loios-tears.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
@@ -345,11 +345,11 @@ async function initMap() {
 
       map = L.map("map", {
           zoomControl: false,
-          maxZoom: 3,
+          maxZoom: 4,
           scrollWheelZoom: false,
           smoothWheelZoom: true,
           smoothSensitivity: 1,
-          wheelDebounceTime: 200,
+          wheelDebounceTime: 100,
           zoomSnap: 0.1,
           crs: L.CRS.Simple
       }).setView(
@@ -471,7 +471,7 @@ async function initMap() {
       clearAllButton.addEventListener("click", clearAllMarkers);
       var bounds = [[-360,-360], [360,360]];
       var imageOverlay = L.imageOverlay(
-          "static/assets/map.webp", [
+          "mapping/static/assets/map.webp", [
               [480, -480], // North West
               [-480, 480], // South East
           ]
