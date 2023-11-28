@@ -471,7 +471,7 @@ async function initMap() {
       clearAllButton.addEventListener("click", clearAllMarkers);
       var bounds = [[-360,-360], [360,360]];
       var imageOverlay = L.imageOverlay(
-          "mapping/static/assets/map.webp", [
+          "mapping/static/assets/map.jpg", [
               [480, -480], // North West
               [-480, 480], // South East
           ]
