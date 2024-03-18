@@ -62,274 +62,274 @@ const rareIcon = L.icon({
 });
 
 const defaultIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/885950046506450955/1133868988565291018/icons.png',
+  iconUrl: 'https://i.postimg.cc/6pCx4K70/blue.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
 });
 
 const blueberryIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/885950046506450955/1134517140045709344/blueberry.png',
+  iconUrl: 'https://i.postimg.cc/d1kBDs3Q/blueberry.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
 });
 
 const boarIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134833598889992213/boar.png',
+  iconUrl: 'https://i.postimg.cc/xdF50J0F/boar.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
 });
 
 const daisyIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134833599175213056/daisy.png',
+  iconUrl: 'https://i.postimg.cc/t4qNWtJM/daisy.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
 });
 
 const daturaIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134883548172656700/datura.png',
+  iconUrl: 'https://i.postimg.cc/28Fx1XkW/datura.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
 });
 
 const deathcapIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134833599783379004/deathcap.png',
+  iconUrl: 'https://i.postimg.cc/3JHBJHT7/deathcap.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
 });
 
 const deerIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134833600072781824/deer.png',
+  iconUrl: 'https://i.postimg.cc/P5Sz4p8r/deer.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
 });
 
 const amanitaIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134833600328638544/amanita.png',
+  iconUrl: 'https://i.postimg.cc/RZdGDp2m/amanita.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
 });
 
 const batflowerIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134833600550944810/batflower.png',
+  iconUrl: 'https://i.postimg.cc/C134q3nG/batflower.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
 });
 
 const bearIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134833600777429034/bear.png',
+  iconUrl: 'https://i.postimg.cc/fWdCNR1B/bear.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
 });
 
 const garlicIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134833621367279686/garlic.png',
+  iconUrl: 'https://i.postimg.cc/T1jnWp6x/garlic.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
 });
 
 const greywolfIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134833621652488233/grey-wolf.png',
+  iconUrl: 'https://i.postimg.cc/Nf41s9D7/grey-wolf.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
 });
 
 const loiostearsIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1110652388328603738/1179157823469395979/loios-tears.png',
+  iconUrl: 'https://i.postimg.cc/XJdCTpX5/loios-tears.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
 });
 
 const mustardIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134833622168391701/mustard.png',
+  iconUrl: 'https://i.postimg.cc/FK2SWjFm/mustard.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
 });
 
 const nightshadeIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134833622466183259/nightshade.png',
+  iconUrl: 'hhttps://i.postimg.cc/8cG6DNr0/nightshade.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
 });
 
 const periwinkleIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134833622751391744/periwinkle.png',
+  iconUrl: 'https://i.postimg.cc/Kj5g8wPv/periwinkle.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
 });
 
 const divineIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134833623049191535/divine.png',
+  iconUrl: 'https://i.postimg.cc/VN59Hfj9/divine.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
 });
 
 const flaxIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134918116753809470/flax.png',
+  iconUrl: 'https://i.postimg.cc/d0X2bbBb/flax.png',
   iconSize: [72, 72],
   iconAnchor: [48, 64],
   popupAnchor: [-3, -76]
 });
 
 const rabbitIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134833633451057232/rabbit.png',
+  iconUrl: 'https://i.postimg.cc/595zgYhd/rabbit.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
 });
 
 const rainlilyIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134833633904050226/rain-lily.png',
+  iconUrl: 'https://i.postimg.cc/L85Zmyn2/rain-lily.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
 });
 
 const raspberryIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134833634172469335/raspberry.png',
+  iconUrl: 'https://i.postimg.cc/qMj3VfB1/raspberry.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
 });
 
 const sageIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134833634503827477/sage.png',
+  iconUrl: 'https://i.postimg.cc/25BbZVQt/sage.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
 });
 
 const silverfirIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134883858265931796/silver-fir-branch.png',
+  iconUrl: 'hhttps://i.postimg.cc/ZRt9F4j5/silver-fir-branch.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
 });
 
 const reedsIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134863539597754368/reeds.png',
+  iconUrl: 'https://i.postimg.cc/htYQv9dx/reeds.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
 });
 
 const clayIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134920975041974282/clay.png',
+  iconUrl: 'https://i.postimg.cc/Gmdqzn7z/clay.png',
   iconSize: [64, 64],
   iconAnchor: [32, 64],
   popupAnchor: [-3, -76]
 });
 
 const grapesIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1135380633720455208/grapes.png',
+  iconUrl: 'https://i.postimg.cc/rFc12C1w/grapes.png',
   iconSize: [64, 64],
   iconAnchor: [32, 64],
   popupAnchor: [-3, -76]
 });
 const tempMarkerIcon = L.icon({
-  iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png',
+  iconUrl: 'https://i.postimg.cc/5t1dwrLM/red.png',
   iconSize: [25, 41],
   iconAnchor: [12, 41],
   popupAnchor: [1, -34],
 });
 const impureIronDepositIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1110652388328603738/1174805340898988102/impure_iron_deposit.png',
+  iconUrl: 'https://i.postimg.cc/6pbnZkD8/impure-iron-deposit.png',
   iconSize: [64, 64],
   iconAnchor: [32, 64],
   popupAnchor: [-3, -76]
 });
 const copperDepositIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1110652388328603738/1174805347215618128/copper_deposit.png',
+  iconUrl: 'https://i.postimg.cc/BvvN9cGK/copper-deposit.png',
   iconSize: [64, 64],
   iconAnchor: [32, 64],
   popupAnchor: [-3, -76]
 });
 
 const graniteDepositIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1110652388328603738/1174816624503701645/granite_deposit.png',
+  iconUrl: 'hhttps://i.postimg.cc/Z556CbDk/granite-deposit.png',
   iconSize: [64, 64],
   iconAnchor: [32, 64],
   popupAnchor: [-3, -76]
 });
 
 const ironDepositIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1110652388328603738/1174816617977364531/iron_deposit.png',
+  iconUrl: 'https://i.postimg.cc/43KtQ8gB/iron-deposit.png',
   iconSize: [64, 64],
   iconAnchor: [32, 64],
   popupAnchor: [-3, -76]
 });
 const gneissDepositIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1110652388328603738/1174818242074792016/icons2.png',
+  iconUrl: 'https://i.postimg.cc/fWYcPg0P/gneiss-deposit.png',
   iconSize: [64, 64],
   iconAnchor: [32, 64],
   popupAnchor: [-3, -76]
 });
 const flintStoneIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1110652388328603738/1174819700513980459/icons2_1.png',
+  iconUrl: 'https://i.postimg.cc/9M7dCLgr/flint-stones.png',
   iconSize: [64, 64],
   iconAnchor: [32, 64],
   popupAnchor: [-3, -76]
 });
 const tinDepositIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1110652388328603738/1175267524439445534/icons2.png',
+  iconUrl: 'https://i.postimg.cc/6pbnZkD8/impure-iron-deposit.png',
   iconSize: [64, 64],
   iconAnchor: [32, 64],
   popupAnchor: [-3, -76]
 });
 const limestoneDepositIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1110652388328603738/1175270065508208650/limestone.png',
+  iconUrl: 'https://i.postimg.cc/43KtQ8gB/iron-deposit.png',
   iconSize: [64, 64],
   iconAnchor: [32, 64],
   popupAnchor: [-3, -76]
 });
 const badgerIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1110652388328603738/1176160477278117898/badger.png',
+  iconUrl: 'https://i.postimg.cc/yx0yXL0w/badger.png',
   iconSize: [64, 64],
   iconAnchor: [32, 64],
   popupAnchor: [-3, -76]
 });
 const foxIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1110652388328603738/1176160483150139532/fox.png',
+  iconUrl: 'https://i.postimg.cc/Bbfx62RN/fox.png',
   iconSize: [64, 64],
   iconAnchor: [32, 64],
   popupAnchor: [-3, -76]
 });
 const pennybunIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1110652388328603738/1176160488955060314/pennybun.png',
+  iconUrl: 'https://i.postimg.cc/YqpWs274/pennybun.png',
   iconSize: [64, 64],
   iconAnchor: [32, 64],
   popupAnchor: [-3, -76]
 });
 const wolfElderIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134833621652488233/grey-wolf.png',
+  iconUrl: 'https://i.postimg.cc/Nf41s9D7/grey-wolf.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
 });
 const corruptedWolfIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134833621652488233/grey-wolf.png',
+  iconUrl: 'https://i.postimg.cc/Nf41s9D7/grey-wolf.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
 });
 const corruptedBoarIcon = L.icon({
-  iconUrl: 'https://cdn.discordapp.com/attachments/1134833564597374976/1134833598889992213/boar.png',
+  iconUrl: 'https://i.postimg.cc/xdF50J0F/boar.png',
   iconSize: [72, 72],
   iconAnchor: [36, 72],
   popupAnchor: [-3, -76]
