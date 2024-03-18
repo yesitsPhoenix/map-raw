@@ -389,7 +389,7 @@ async function initMap() {
                   controlName + "-home",
                   container,
                   this._zoomHome,
-                  "https://cdn.discordapp.com/attachments/885950046506450955/1133842273310871702/home.png"
+                  "https://i.postimg.cc/CKv5LKhR/home.png"
               );
 
               this._zoomOutButton = this._createButton(
